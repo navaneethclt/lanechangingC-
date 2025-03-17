@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/trajectory_optimization.dir/trajectory_optimization.cpp.o  -o trajectory_optimization /usr/lib/libceres.so.1.13.0 -lglog -lpthread -lm /usr/lib/x86_64-linux-gnu/libglog.so /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.1 -lpthread 

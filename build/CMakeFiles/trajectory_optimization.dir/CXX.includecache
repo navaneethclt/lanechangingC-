@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/navaneeth/lanechange/trajectory_optimization.cpp
+iostream
+-
+vector
+-
+eigen3/Eigen/Dense
+-
+ceres/ceres.h
+/home/navaneeth/lanechange/ceres/ceres.h
+cmath
+-
+fstream
+-
+iomanip
+-
+
