@@ -27,7 +27,6 @@ These penalties are used to compute the optimal trajectory by adjusting the time
 Before running the code, you will need to install the following dependencies:
 
 1. **Ceres Solver**: For solving optimization problems.
-   - Follow the installation instructions [here](https://ceres-solver.org/installation.html).
    
 2. **Eigen**: A C++ library for linear algebra (already included in this repository as `eigen3/Eigen/Dense`).
 
